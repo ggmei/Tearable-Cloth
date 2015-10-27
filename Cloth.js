@@ -30,7 +30,7 @@ var physics_accuracy = 3,
     cloth_width = 50,
     start_y = 20,
     spacing = 7,
-    tear_distance = 60;
+    tear_distance = 50;
 
 
 window.requestAnimFrame =
